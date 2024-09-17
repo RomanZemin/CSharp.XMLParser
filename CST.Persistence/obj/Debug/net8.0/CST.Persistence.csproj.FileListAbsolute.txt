@@ -1,0 +1,17 @@
+C:\Users\mvide\source\repos\CST.Persistence\bin\Debug\net8.0\CST.Persistence.deps.json
+C:\Users\mvide\source\repos\CST.Persistence\bin\Debug\net8.0\CST.Persistence.dll
+C:\Users\mvide\source\repos\CST.Persistence\bin\Debug\net8.0\CST.Persistence.pdb
+C:\Users\mvide\source\repos\CST.Persistence\bin\Debug\net8.0\CST.Domain.dll
+C:\Users\mvide\source\repos\CST.Persistence\bin\Debug\net8.0\CST.Domain.pdb
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Persistence.csproj.AssemblyReference.cache
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Persistence.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Persistence.AssemblyInfo.cs
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Pers.53E1325D.Up2Date
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Persistence.dll
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\refint\CST.Persistence.dll
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\CST.Persistence.pdb
+C:\Users\mvide\source\repos\CST.Persistence\obj\Debug\net8.0\ref\CST.Persistence.dll
+C:\Users\mvide\source\repos\CST.Persistence\bin\Debug\net8.0\CST.Application.dll
+C:\Users\mvide\source\repos\CST.Persistence\bin\Debug\net8.0\CST.Application.pdb

@@ -1,0 +1,11 @@
+C:\Users\mvide\source\repos\CST.Domain\bin\Debug\net8.0\CST.Domain.deps.json
+C:\Users\mvide\source\repos\CST.Domain\bin\Debug\net8.0\CST.Domain.dll
+C:\Users\mvide\source\repos\CST.Domain\bin\Debug\net8.0\CST.Domain.pdb
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\CST.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\CST.Domain.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\CST.Domain.AssemblyInfo.cs
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\CST.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\CST.Domain.dll
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\refint\CST.Domain.dll
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\CST.Domain.pdb
+C:\Users\mvide\source\repos\CST.Domain\obj\Debug\net8.0\ref\CST.Domain.dll

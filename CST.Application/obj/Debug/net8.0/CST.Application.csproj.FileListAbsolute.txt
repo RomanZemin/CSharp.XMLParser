@@ -1,0 +1,11 @@
+C:\Users\mvide\source\repos\CST.Application\bin\Debug\net8.0\CST.Application.deps.json
+C:\Users\mvide\source\repos\CST.Application\bin\Debug\net8.0\CST.Application.dll
+C:\Users\mvide\source\repos\CST.Application\bin\Debug\net8.0\CST.Application.pdb
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\CST.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\CST.Application.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\CST.Application.AssemblyInfo.cs
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\CST.Application.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\CST.Application.dll
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\refint\CST.Application.dll
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\CST.Application.pdb
+C:\Users\mvide\source\repos\CST.Application\obj\Debug\net8.0\ref\CST.Application.dll

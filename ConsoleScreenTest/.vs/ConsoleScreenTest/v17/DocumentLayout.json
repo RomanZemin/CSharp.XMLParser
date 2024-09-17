@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mvide\\source\\repos\\ConsoleScreenTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3E6E1-4978-4C8A-9989-90421F4050F2}|ConsoleScreenTest.csproj|c:\\users\\mvide\\source\\repos\\consolescreentest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3E6E1-4978-4C8A-9989-90421F4050F2}|ConsoleScreenTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01017BE-DA26-4D8C-86BE-53415F7BFEC5}|..\\CST.Application\\CST.Application.csproj|c:\\users\\mvide\\source\\repos\\cst.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6FA145-14A5-4BDA-89E3-0E4F7F0B7BED}|..\\CST.Domain\\CST.Domain.csproj|c:\\users\\mvide\\source\\repos\\cst.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6FA145-14A5-4BDA-89E3-0E4F7F0B7BED}|..\\CST.Domain\\CST.Domain.csproj|c:\\users\\mvide\\source\\repos\\cst.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6FA145-14A5-4BDA-89E3-0E4F7F0B7BED}|..\\CST.Domain\\CST.Domain.csproj|c:\\users\\mvide\\source\\repos\\cst.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6FA145-14A5-4BDA-89E3-0E4F7F0B7BED}|..\\CST.Domain\\CST.Domain.csproj|c:\\users\\mvide\\source\\repos\\cst.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85916AA9-3CC5-4CE1-8B37-CBAD3DAA3948}|..\\CST.Persistence\\CST.Persistence.csproj|c:\\users\\mvide\\source\\repos\\cst.persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85916AA9-3CC5-4CE1-8B37-CBAD3DAA3948}|..\\CST.Persistence\\CST.Persistence.csproj|c:\\users\\mvide\\source\\repos\\cst.persistence\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85916AA9-3CC5-4CE1-8B37-CBAD3DAA3948}|..\\CST.Persistence\\CST.Persistence.csproj|c:\\users\\mvide\\source\\repos\\cst.persistence\\parsers\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3E6E1-4978-4C8A-9989-90421F4050F2}|ConsoleScreenTest.csproj|c:\\users\\mvide\\source\\repos\\consolescreentest\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7EA3E6E1-4978-4C8A-9989-90421F4050F2}|ConsoleScreenTest.csproj|solutionrelative:data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvide\\AppData\\Local\\SourceServer\\cc6a60ec468d593605f295a5d77853ed9a960c680a7a37d7265ed9914269fc24\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvide\\AppData\\Local\\SourceServer\\83594ba87cc38b79333778f53c8205bc80b750ff66c25ae3c4ef5eb392986bec\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\ConsoleScreenTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\ConsoleScreenTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:53:42.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\CST.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "..\\CST.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:33:48.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Persistence\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\CST.Persistence\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Persistence\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\CST.Persistence\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:32:06.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XmlParser.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Persistence\\Parsers\\XmlParser.cs",
+              "RelativeDocumentMoniker": "..\\CST.Persistence\\Parsers\\XmlParser.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Persistence\\Parsers\\XmlParser.cs",
+              "RelativeToolTip": "..\\CST.Persistence\\Parsers\\XmlParser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:24:33.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Data.xml",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\ConsoleScreenTest\\Data.xml",
+              "RelativeDocumentMoniker": "Data.xml",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\ConsoleScreenTest\\Data.xml",
+              "RelativeToolTip": "Data.xml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-17T07:15:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Number.Parsing.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\AppData\\Local\\SourceServer\\cc6a60ec468d593605f295a5d77853ed9a960c680a7a37d7265ed9914269fc24\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\cc6a60ec468d593605f295a5d77853ed9a960c680a7a37d7265ed9914269fc24\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
+              "ToolTip": "C:\\Users\\mvide\\AppData\\Local\\SourceServer\\cc6a60ec468d593605f295a5d77853ed9a960c680a7a37d7265ed9914269fc24\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\cc6a60ec468d593605f295a5d77853ed9a960c680a7a37d7265ed9914269fc24\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
+              "ViewState": "AgIAAF8FAAAAAAAAAAASwG0FAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:15:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Persistence\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CST.Persistence\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Persistence\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\CST.Persistence\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:59:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\CST.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "..\\CST.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:58:34.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\CST.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\CST.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:57:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\CST.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\CST.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:55:06.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\CST.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\CST.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\CST.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:54:43.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SafeFileHandle.Windows.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\AppData\\Local\\SourceServer\\83594ba87cc38b79333778f53c8205bc80b750ff66c25ae3c4ef5eb392986bec\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\83594ba87cc38b79333778f53c8205bc80b750ff66c25ae3c4ef5eb392986bec\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "ToolTip": "C:\\Users\\mvide\\AppData\\Local\\SourceServer\\83594ba87cc38b79333778f53c8205bc80b750ff66c25ae3c4ef5eb392986bec\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\83594ba87cc38b79333778f53c8205bc80b750ff66c25ae3c4ef5eb392986bec\\src\\libraries\\System.Private.CoreLib\\src\\Microsoft\\Win32\\SafeHandles\\SafeFileHandle.Windows.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAASwHEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:06:33.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
